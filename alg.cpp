@@ -1,3 +1,4 @@
+using namespace std;
 void sortAscending(int *arr, int len)
 {
 	int min;
